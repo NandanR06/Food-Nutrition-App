@@ -10,7 +10,7 @@ This is a MERN stack project that utilizes a camera to identify food items (e.g.
 - **Diet & Exercise Suggestions**: Provides personalized health recommendations.
 - **Multilingual Support**: Supports vernacular languages.
 - 
-![Project Screenshot](./home.png)
+![Project Screenshot](./Screenshot%202025-03-09%20002038.png)
 
 ## 🛠️ Tech Stack
 ### Frontend
@@ -21,7 +21,6 @@ This is a MERN stack project that utilizes a camera to identify food items (e.g.
 ### Backend
 - Node.js
 - Express.js
-- MongoDB
 
 ### Machine Learning
 - TensorFlow.js (for image classification using MobileNet)
